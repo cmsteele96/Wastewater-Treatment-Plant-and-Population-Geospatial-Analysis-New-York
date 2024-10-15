@@ -1,1 +1,1 @@
-See Average Hydrolog Flow Rate Spatial Analysis.ipynp for full project!
+See Average Hydraulic Flow Rate Spatial Analysis.ipynp for full project!
